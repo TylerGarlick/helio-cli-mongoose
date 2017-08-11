@@ -1,9 +1,9 @@
 {
-  "name": "helio-gql-cli-mongoose",
+  "name": "helio-cli-mongoose",
   "version": "0.1.0",
   "description": "A basic starting template for a GraphQL + Mongoose service",
   "main": "index.js",
-  "repository": "https://github.com/helio-training/helio-gql-cli-mongoose",
+  "repository": "https://github.com/helio-training-tools/helio-cli-mongoose",
   "author": "Aric Beagley <abeagley@heliotraining.com>",
   "license": "MIT",
   "devDependencies": {
