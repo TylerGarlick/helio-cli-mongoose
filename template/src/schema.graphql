@@ -1,0 +1,24 @@
+# schema.graphql
+# Home for all things graphql
+
+# Root types
+
+type Query {
+  Cat(name: String!): Cat
+  allCats: [Cat]
+}
+
+type Mutation {
+  createCat(name: String!): Cat
+  updateCat(name: String!, newName: String!): Cat
+}
+
+type Subscription {
+  noop: String!
+}
+
+# Application Types
+
+type Cat {
+  name: String!
+}
