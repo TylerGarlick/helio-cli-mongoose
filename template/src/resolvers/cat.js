@@ -56,11 +56,5 @@ export default {
         throw e
       }
     }
-  },
-
-  Contact: {
-    emailAddresses (contact) {
-      return contact.emailAddresses
-    }
   }
 }
