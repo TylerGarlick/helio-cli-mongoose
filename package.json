@@ -1,6 +1,6 @@
 {
   "name": "helio-cli-mongoose",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A basic starting template for a GraphQL + Mongoose service",
   "main": "index.js",
   "repository": "https://github.com/helio-training-tools/helio-cli-mongoose",
